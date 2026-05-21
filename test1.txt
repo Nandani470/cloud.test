@@ -1,7 +1,5 @@
 Hello Nandani
-<<<<<<< HEAD
-Hii!You are prepare for testing
-Conflict
-=======
+
 how are you ?
->>>>>>> cddcd7c (Updated By Neha)
+
+
